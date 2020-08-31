@@ -28,10 +28,6 @@ size_t binary_tree_size(const binary_tree_t *tree)
 	return (binary_tree_si(tree) + 1);
 }
 
-
-/** BELOW IS THE 16 TAKS, 11 TASK USED TO GET THE SIZE OF NODES*/
-
-
 /**
  * binary_tree_is_perfect - checks if the tree is perfect
  * @tree: pointer to root
